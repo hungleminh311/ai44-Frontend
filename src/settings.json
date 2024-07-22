@@ -1,0 +1,79 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "BannerWithButton",
+      "variables": {
+        "eventDescription": "Rent a car now and get 20% off on your first booking!",
+        "eventName": "Limited Time Offer",
+        "linkText": "Book Now"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the freedom of flawless journeys with our professional car rental service.",
+        "title": "Unlock the Road with Premium Car Rentals"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Unlock the Road with Premium Car Rentals",
+  "subtitle": "Experience the freedom of flawless journeys with our professional car rental service."
+}
